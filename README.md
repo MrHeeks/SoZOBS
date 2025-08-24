@@ -3,7 +3,7 @@ Script that launches SoZ and OBS in buffer mode
 
 ## Prérequis
 - Windows 10/11
-- Lancez en double-cliquant
+- Soz Launcher et OBS installés
 
 ## Utilisation
 1. Téléchargez `SoZOBS.bat` (onglet Code → Download ou via la Release).
